@@ -70,7 +70,8 @@ The passed parameters will be displayed on the website screen.
 
 ### Screenshots
 
-![Main Page](bekkani04/first-project-java-spring_kani/blob/master/images/Screenshot%20(365).png)
+![Main Page](images/Screenshot%20(365).png)
+
 
 ## Project Structure
 
