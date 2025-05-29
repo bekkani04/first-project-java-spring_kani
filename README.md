@@ -70,7 +70,7 @@ The passed parameters will be displayed on the website screen.
 
 ### Screenshots
 
-![Main Page](images/screenshot(365).png)
+![Main Page](images/Screenshot(365).png)
 
 ## Project Structure
 
